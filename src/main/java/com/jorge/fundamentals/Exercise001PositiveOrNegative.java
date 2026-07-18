@@ -3,6 +3,16 @@ package com.jorge.fundamentals;
 import java.util.Scanner;
 
 public class Exercise001PositiveOrNegative {
+
+    /*Ejercicio 1 - Número positivo o negativo
+
+      Solicitar un número entero al usuario e indicar:
+        "Positivo" si es mayor que cero.
+        "Negativo" si es menor que cero.
+        "Cero" si es igual a cero.
+
+      Conceptos: if - else. */
+
     public static void main(String[] args) {
         System.out.println("Ingrese un numero");
 
