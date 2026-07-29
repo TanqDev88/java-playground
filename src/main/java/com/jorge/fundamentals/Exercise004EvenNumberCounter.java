@@ -1,18 +1,20 @@
 package com.jorge.fundamentals;
 import java.util.Scanner;
 
-public class Exercise003SumFromOneToN {
+public class Exercise004EvenNumberCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        int suma = 0;
+        int contador = 0;
 
         for (int i = 1; i <= n; i++) {
-            suma += i;
+            if (i % 2 == 0) {
+                contador++;
+            }
         }
 
-        System.out.println(suma);
+        System.out.println(contador);
 
         sc.close();
     }
