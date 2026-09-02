@@ -1,4 +1,4 @@
-package com.jorge.fundamentals;
+package com.jorge.fundamentals.forloops;
 
 public class Exercise001CountOneToTen {
     /*

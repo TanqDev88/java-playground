@@ -1,4 +1,4 @@
-package com.jorge.fundamentals;
+package com.jorge.fundamentals.whileloops;
 
 public class Exercise001SimpleCounter {
     public static void main(String[] args) {

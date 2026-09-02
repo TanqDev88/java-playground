@@ -1,4 +1,4 @@
-package com.jorge.fundamentals;
+package com.jorge.fundamentals.forloops;
 import java.util.Scanner;
 
 public class Exercise002MultiplicationTable {
