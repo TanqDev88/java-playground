@@ -1,8 +1,8 @@
-# Java Playground
+<h1 align="center">✨ Java Playground ✨</h1>
+<p align="center">A personal repository for learning and practicing Java fundamentals through small exercises, coding challenges, and language feature demonstrations.
+    The goal of this project is to build a solid foundation in Java before moving on to more advanced topics such as Spring Boot, databases, concurrency, and software architecture.</p>
 
-A personal repository for learning and practicing Java fundamentals through small exercises, coding challenges, and language feature demonstrations.
 
-The goal of this project is to build a solid foundation in Java before moving on to more advanced topics such as Spring Boot, databases, concurrency, and software architecture.
 
 ---
 
